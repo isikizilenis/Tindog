@@ -1,2 +1,2 @@
 # tindog
-Tinder! But for dogs..? 😄
+https://isikizilenis.github.io/tindog/ Tinder! But for dogs..? 😄
